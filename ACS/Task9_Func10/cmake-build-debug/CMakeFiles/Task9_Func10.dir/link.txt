@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Task9_Func10.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\mingw64\bin\ar.exe cr CMakeFiles\Task9_Func10.dir/objects.a @CMakeFiles\Task9_Func10.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Task9_Func10.dir/objects.a -Wl,--no-whole-archive -o Task9_Func10.exe -Wl,--out-implib,libTask9_Func10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Task9_Func10.dir\linklibs.rsp

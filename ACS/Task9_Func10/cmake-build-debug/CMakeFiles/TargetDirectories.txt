@@ -1,0 +1,3 @@
+C:/ClionProj/ACS/Task9_Func10/cmake-build-debug/CMakeFiles/Task9_Func10.dir
+C:/ClionProj/ACS/Task9_Func10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ClionProj/ACS/Task9_Func10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
